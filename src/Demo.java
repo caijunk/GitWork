@@ -4,5 +4,8 @@ public class Demo {
 		System.out.println("Hello git-newFz");
 		System.out.println("Hello git-newFz");
 		System.out.println("Hello git-newFz");
+		System.out.println("Hello git-newFz-冲突");
+		System.out.println("Hello git-newFz-冲突");
+		System.out.println("Hello git-newFz-冲突");
 	}
 }
